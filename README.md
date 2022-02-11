@@ -1,4 +1,5 @@
-### Hi there 👋
+### Hi there 👋 I'm Linhao Luo (Raymond) <img align='right' src='https://github-readme-stats.vercel.app/api?username=RManLuo&show_icons=true&theme=cobalt' width='380px'>
+
 
 <!--
 **RManLuo/RManLuo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +15,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+- 🌱 I’m currently learning at Monash University.
+- 🔭 I'm interested in Graph Data Mining, AI, and Security.
+- 📺 My Blog: [https://rmanluo.top](https://rmanluo.top)
