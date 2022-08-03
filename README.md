@@ -1,6 +1,5 @@
 ### Hi there 👋 I'm Linhao Luo (Raymond) <img align='right' src='https://github-readme-stats.vercel.app/api?username=RManLuo&show_icons=true&theme=cobalt' width='380px'>
 
-
 <!--
 **RManLuo/RManLuo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -19,3 +18,6 @@ Here are some ideas to get you started:
 - 🔭 I'm interested in Graph Data Mining, AI, and Security.
 - 📫 Personal Page: [https://rmanluo.github.io/](https://rmanluo.github.io/).
 - 📺 My Blog: [https://rmanluo.top](https://rman.top).
+
+[![GitHub](https://img.shields.io/badge/GitHub-grey?logo=github)](https://github.com/RManLuo)
+![](https://visitor-badge.glitch.me/badge?page_id=RManLuo.README) 
