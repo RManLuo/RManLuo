@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-- 🌱 I’m currently a MPhil student at Monash University.
+- 🌱 I’m currently a PhD student at Monash University.
 - 🔭 I'm interested in Graph Data Mining, AI, and Security.
 - 📫 Personal Page: [https://rmanluo.github.io/](https://rmanluo.github.io/).
 - 📺 My Blog: [https://rmanluo.top](https://rman.top).
