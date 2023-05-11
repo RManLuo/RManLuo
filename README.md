@@ -20,4 +20,4 @@ Here are some ideas to get you started:
 - 📺 My Blog: [https://rmanluo.top](https://rman.top).
 
 [![GitHub](https://img.shields.io/badge/GitHub-grey?logo=github)](https://github.com/RManLuo)
-![](https://visitor-badge.glitch.me/badge?page_id=RManLuo.README) 
+![Vistors](https://img.shields.io/endpoint?color=blue&label=Visitors&url=https%3A%2F%2Fhits.dwyl.com%2FRManLuo%2FRManLuo.json)
