@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 - 🌱 I’m currently a PhD student at Monash University.
-- 🔭 I'm interested in Graph Data Mining, AI, and Security.
+- 🔭 I'm interested in Knowledge Graph, LLM, Graph Data Mining, and Security.
 - 📫 Personal Page: [https://rmanluo.github.io/](https://rmanluo.github.io/).
 - 📺 My Blog: [https://rmanluo.top](https://rman.top).
 
