@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 - 🌱 I’m currently a PhD student at Monash University.
 - 🔭 I'm interested in Knowledge Graph, LLM, Graph Data Mining, and Security.
 - 📫 Personal Page: [https://rmanluo.github.io/](https://rmanluo.github.io/).
-- 📺 My Blog: [https://rmanluo.top](https://rman.top).
+- 📺 My Blog: [https://rman.top](https://rman.top).
 
 [![GitHub](https://img.shields.io/badge/GitHub-grey?logo=github)](https://github.com/RManLuo)
 ![Vistors](https://img.shields.io/endpoint?color=blue&label=Visitors&url=https%3A%2F%2Fhits.dwyl.com%2FRManLuo%2FRManLuo.json)
